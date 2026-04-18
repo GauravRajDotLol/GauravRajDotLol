@@ -1,8 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Gaurav Raj
-===================================================================================================================================
+# Hi 👋 My name is Gaurav Raj
 
-Full Stack Developer, Discord Bot Developer, and Backend Engineer
------------------------------------------------------------------
+## Full Stack Developer, Discord Bot Developer, and Backend Engineer
 
 I'm a full stack developer who loves building Discord bots, backend systems, APIs, dashboards, websites, and random side projects that somehow end up becoming real products. I mainly work with Node.js, Express, MongoDB, Next.js, Tailwind CSS, and Discord.js.
 
@@ -10,16 +8,67 @@ I've worked on everything from Discord bots and economy systems to Minecraft ser
 
 I also enjoy UI/UX design, building polished websites, and experimenting with new ideas, frameworks, and technologies. Most of my projects start as "small ideas" and quickly turn into much bigger ones.
 
-* 🧠  I'm currently learning Advanced backend architecture, scalable systems, and modern frameworks
-* 💬  Ask me about I turn bad ideas into working products, run on questionable sleep schedules, and somehow always end up making another side project.
+* 🧠 I'm currently learning Advanced backend architecture, scalable systems, and modern frameworks
+* 🤝 I'm open to collaborating on Discord bots, websites, backend systems, APIs, dashboards, and interesting startup ideas
+* ⚡ I turn bad ideas into working products, run on questionable sleep schedules, and somehow always end up making another side project.
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://lua.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/lua-colored.svg" alt="Lua" title="Lua" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
-</p>
+## Skills
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img align="left" src="https://cdn.simpleicons.org/css/1572B6" alt="CSS3" title="CSS3" width="36" height="36" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img align="left" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" title="HTML5" width="36" height="36" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a>
+<a href="https://lua.org/" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/lua-colored.svg" alt="Lua" title="Lua" width="36" height="36" /></a>
+<a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"><img align="left" src="https://cdn.simpleicons.org/markdown/000000" alt="Markdown" title="Markdown" width="36" height="36" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>
+<a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"><img align="left" src="https://cdn.simpleicons.org/cloudflare/F38020" alt="Cloudflare" title="Cloudflare" width="36" height="36" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a>
+<a href="https://glitch.com/" target="_blank" rel="noreferrer"><img align="left" src="https://cdn.simpleicons.org/glitch/3333FF" alt="Glitch" title="Glitch" width="36" height="36" /></a>
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img align="left" src="https://cdn.simpleicons.org/googlecloud/4285F4" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a>
+<a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img align="left" src="https://cdn.simpleicons.org/netlify/00C7B7" alt="Netlify" title="Netlify" width="36" height="36" /></a>
+<a href="https://www.ovhcloud.com/" target="_blank" rel="noreferrer"><img align="left" src="https://cdn.simpleicons.org/ovh/123F6D" alt="OVH" title="OVH" width="36" height="36" /></a>
+<a href="https://vercel.com/" target="_blank" rel="noreferrer"><img align="left" src="https://cdn.simpleicons.org/vercel" alt="Vercel" title="Vercel" width="36" height="36" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a>
+<a href="https://www.chartjs.org/" target="_blank" rel="noreferrer"><img align="left" src="https://cdn.simpleicons.org/chartdotjs/F5788D" alt="Chart.js" title="Chart.js" width="36" height="36" /></a>
+<a href="https://ejs.co/" target="_blank" rel="noreferrer"><img align="left" src="https://cdn.simpleicons.org/ejs/B4CA65" alt="EJS" title="EJS" width="36" height="36" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-dark.svg" alt="Express.js" title="Express.js" width="36" height="36" /></a>
+<a href="https://expo.dev/" target="_blank" rel="noreferrer"><img align="left" src="https://cdn.simpleicons.org/expo/1C1E24" alt="Expo" title="Expo" width="36" height="36" /></a>
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img align="left" src="https://cdn.simpleicons.org/jquery/0769AD" alt="jQuery" title="jQuery" width="36" height="36" /></a>
+<a href="https://jwt.io/" target="_blank" rel="noreferrer"><img align="left" src="https://cdn.simpleicons.org/jsonwebtokens/000000" alt="JWT" title="JWT" width="36" height="36" /></a>
+<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img align="left" src="https://cdn.simpleicons.org/npm/CB3837" alt="NPM" title="NPM" width="36" height="36" /></a>
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a>
+<a href="https://nodemon.io/" target="_blank" rel="noreferrer"><img align="left" src="https://cdn.simpleicons.org/nodemon/76D04B" alt="Nodemon" title="Nodemon" width="36" height="36" /></a>
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"><img align="left" src="https://cdn.simpleicons.org/opencv/5C3EE8" alt="OpenCV" title="OpenCV" width="36" height="36" /></a>
+<a href="https://socket.io/" target="_blank" rel="noreferrer"><img align="left" src="https://cdn.simpleicons.org/socketdotio/FFFFFF" alt="Socket.io" title="Socket.io" width="36" height="36" /></a>
+<a href="https://nginx.org/" target="_blank" rel="noreferrer"><img align="left" src="https://cdn.simpleicons.org/nginx/009639" alt="Nginx" title="Nginx" width="36" height="36" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="Postgres" title="Postgres" width="36" height="36" /></a>
+<a href="https://redis.io/" target="_blank" rel="noreferrer"><img align="left" src="https://cdn.simpleicons.org/redis/DD0031" alt="Redis" title="Redis" width="36" height="36" /></a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img align="left" src="https://cdn.simpleicons.org/sqlite/003B57" alt="SQLite" title="SQLite" width="36" height="36" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"><img align="left" src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" title="GitHub" width="36" height="36" /></a>
+<a href="https://jellyfin.org/" target="_blank" rel="noreferrer"><img align="left" src="https://cdn.simpleicons.org/jellyfin/00A4DC" alt="Jellyfin" title="Jellyfin" width="36" height="36" /></a>
+<a href="https://grafana.com/" target="_blank" rel="noreferrer"><img align="left" src="https://cdn.simpleicons.org/grafana/F46800" alt="Grafana" title="Grafana" width="36" height="36" /></a>
+<a href="https://ffmpeg.org/" target="_blank" rel="noreferrer"><img align="left" src="https://cdn.simpleicons.org/ffmpeg/007808" alt="FFmpeg" title="FFmpeg" width="36" height="36" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
+<a href="https://pi-hole.net/" target="_blank" rel="noreferrer"><img align="left" src="https://cdn.simpleicons.org/pihole/96060C" alt="Pi-Hole" title="Pi-Hole" width="36" height="36" /></a>
+<a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img align="left" src="https://cdn.simpleicons.org/prometheus/E6522C" alt="Prometheus" title="Prometheus" width="36" height="36" /></a>
+
+<br clear="left" />
+<br />
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/GauravRajDotLol" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
+<p align="left">
+<a href="https://www.github.com/GauravRajDotLol" target="_blank" rel="noreferrer">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
+</picture>
+</a>
+</p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
