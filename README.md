@@ -19,7 +19,6 @@ I also enjoy UI/UX design, building polished websites, and experimenting with ne
     <img src="https://skillicons.dev/icons?i=css,html,js,lua,md,py,cloudflare,firebase,gcp,netlify,vercel,bootstrap,tailwind,nextjs,discordjs,express,jquery,npm,nodejs,opencv,nginx,mongodb,mysql,postgres,redis,sqlite,git,github,grafana,docker,prometheus" alt="My Skills" />
   </a>
 </p>
-<br />
 
 ### Socials
 
